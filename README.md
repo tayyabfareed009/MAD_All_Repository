@@ -5,9 +5,10 @@ This repository contains links to my other GitHub repositories.
 ## Repositories
 - [Assignment 01 Skill Swap Frontend Snack Expo](https://github.com/tayyabfareed009/Assignment_01)
 - [SkillSwap App on Expo](https://github.com/tayyabfareed009/SkillSwap)
--  [TodoList App Quiz 01](https://github.com/tayyabfareed009/TodoListApp)
+- [TodoList App Quiz 01](https://github.com/tayyabfareed009/TodoListApp)
 - [Ecommerce App](https://github.com/tayyabfareed009/Ecommerce)
 - [Mid Exam Coffee Shop](https://github.com/tayyabfareed009/MidExamCoffieeShop)
+- [Juice App](https://github.com/tayyabfareed009/Juice-App)
 
 ## Youtube Links:
 # Skill Swap App 
@@ -86,14 +87,7 @@ Run backend server (Node.js):
 
 
 node server.js
-## Folder Structure Example
 
-MAD/
-├─ SkillSwap_Assignment1/
-├─ Quiz01_ToDoListApp/
-├─ Assignment02_EcommerceApp/
-├─ MAD_MidExam_CoffeeShop/
-└─ README.md
 ## Notes
 Make sure Node.js and Expo CLI are installed on your system.
 
