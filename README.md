@@ -11,9 +11,9 @@ This repository contains links to my other GitHub repositories.
 - [Juice App](https://github.com/tayyabfareed009/Juice-App)
 
 ## Youtube Links:
-# Skill Swap App 
+### Skill Swap App 
 https://youtube.com/shorts/KY76t1jg0bw?si=2_6or3-DxSb5vH_9
-# Ecommerce App 
+### Ecommerce App 
 https://youtu.be/994iL56FeH0
 
 
