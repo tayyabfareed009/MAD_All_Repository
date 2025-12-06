@@ -97,10 +97,10 @@ Snapshots and videos are included in the respective project folders for referenc
 
 All projects are fully functional and tested on Android/iOS simulators or real devices.
 ## Some App app simple for download and  run on your computer
-https://github.com/tayyabfareed009/midExam 
-https://github.com/tayyabfareed009/Juice-App
-https://github.com/tayyabfareed009/EcommerceApp 
-https://github.com/tayyabfareed009/Skill-Swap-App
+- https://github.com/tayyabfareed009/midExam 
+- https://github.com/tayyabfareed009/Juice-App
+- https://github.com/tayyabfareed009/EcommerceApp 
+- https://github.com/tayyabfareed009/Skill-Swap-App
 
 ##  Author
 Malik Tayyab Fareed
