@@ -3,9 +3,12 @@
 This repository contains links to my other GitHub repositories.
 
 ## Repositories
-- [Assignment 01](https://github.com/tayyabfareed009/Assignment_01)
-- [SkillSwap](https://github.com/tayyabfareed009/SkillSwap)
+- [Assignment 01 Skill Swap Frontend Snack Expo](https://github.com/tayyabfareed009/Assignment_01)
+- [SkillSwap App on Expo](https://github.com/tayyabfareed009/SkillSwap)
+- - [TodoList App Quiz 01](https://github.com/tayyabfareed009/TodoListApp)
 - [Ecommerce App](https://github.com/tayyabfareed009/Ecommerce)
+- [Mid Exam Coffee Shop](https://github.com/tayyabfareed009/MidExamCoffieeShop)
+
 ## Youtube Links:
 # Skill Swap App 
 https://youtube.com/shorts/KY76t1jg0bw?si=2_6or3-DxSb5vH_9
