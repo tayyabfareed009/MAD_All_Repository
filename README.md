@@ -6,8 +6,8 @@ This repository contains links to my other GitHub repositories.
 - [Assignment 01 Skill Swap Frontend Snack Expo](https://github.com/tayyabfareed009/Assignment_01)
 - [SkillSwap App on Expo](https://github.com/tayyabfareed009/SkillSwap)
 - [TodoList App Quiz 01](https://github.com/tayyabfareed009/TodoListApp)
-- [Ecommerce App](https://github.com/tayyabfareed009/Ecommerce)
-- [Ecommerce App fully working with apk file](https://github.com/tayyabfareed009/Ecommerce-Application)
+- [Ecommerce App Xammp](https://github.com/tayyabfareed009/Ecommerce)
+- [Ecommerce App monogoDb fully working with apk file](https://github.com/tayyabfareed009/Ecommerce-Application)
 - [Mid Exam Coffee Shop](https://github.com/tayyabfareed009/MidExamCoffieeShop)
 - [Juice App](https://github.com/tayyabfareed009/Juice-App)
 
@@ -23,7 +23,7 @@ https://youtu.be/pIEqi3c3cMw
 
 
 ## Apk File :
--[Ecommerce Apk File ](https://expo.dev/accounts/tayyabfareed/projects/EcommerceAppNew/builds/3e23e9ac-d4c4-47b9-b53c-aa6042868c04)
+- [Ecommerce Apk File ](https://expo.dev/accounts/tayyabfareed/projects/EcommerceAppNew/builds/3e23e9ac-d4c4-47b9-b53c-aa6042868c04)
 
 
 
@@ -104,8 +104,8 @@ All projects are fully functional and tested on Android/iOS simulators or real d
 - https://github.com/tayyabfareed009/Juice-App
 - https://github.com/tayyabfareed009/EcommerceApp 
 - https://github.com/tayyabfareed009/Skill-Swap-App
-
+- https://github.com/tayyabfareed009/Ecommerce-Application
 ##  Author
-Malik Tayyab Fareed
-Software Engineer | MAD Student
-Islamabad, Pakistan
+- Malik Tayyab Fareed
+- Software Engineer | MAD Student
+- Islamabad, Pakistan
