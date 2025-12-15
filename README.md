@@ -7,7 +7,7 @@ This repository contains links to my other GitHub repositories.
 - [SkillSwap App on Expo](https://github.com/tayyabfareed009/SkillSwap)
 - [TodoList App Quiz 01](https://github.com/tayyabfareed009/TodoListApp)
 - [Ecommerce App](https://github.com/tayyabfareed009/Ecommerce)
--[Ecommerce App fully working with apk file](https://github.com/tayyabfareed009/Ecommerce-Application)
+- [Ecommerce App fully working with apk file](https://github.com/tayyabfareed009/Ecommerce-Application)
 - [Mid Exam Coffee Shop](https://github.com/tayyabfareed009/MidExamCoffieeShop)
 - [Juice App](https://github.com/tayyabfareed009/Juice-App)
 
