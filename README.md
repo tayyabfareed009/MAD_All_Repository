@@ -12,6 +12,7 @@ This repository contains links to my other GitHub repositories.
 - [Assignment no # 03 Biding as freelancer](https://github.com/tayyabfareed009/Bids_As_Freelanceer)
 - [Assignment no # 04 Gumroad For Passive income](https://github.com/tayyabfareed009/Gumroad_Products-_A4)
 - [Juice App](https://github.com/tayyabfareed009/Juice-App)
+- [News Watch App Smester Project With Client ](https://github.com/tayyabfareed009/News_Watch)
 
 
 ## Youtube Links:
