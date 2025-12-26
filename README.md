@@ -9,7 +9,10 @@ This repository contains links to my other GitHub repositories.
 - [Ecommerce App Xammp](https://github.com/tayyabfareed009/Ecommerce)
 - [Ecommerce App monogoDb fully working with apk file](https://github.com/tayyabfareed009/Ecommerce-Application)
 - [Mid Exam Coffee Shop](https://github.com/tayyabfareed009/MidExamCoffieeShop)
+- [Assignment no # 03 Biding as freelancer](https://github.com/tayyabfareed009/Bids_As_Freelanceer)
+- [Assignment no # 04 Gumroad For Passive income](https://github.com/tayyabfareed009/Gumroad_Products-_A4)
 - [Juice App](https://github.com/tayyabfareed009/Juice-App)
+
 
 ## Youtube Links:
 ### Skill Swap App 
