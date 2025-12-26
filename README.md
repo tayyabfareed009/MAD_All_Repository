@@ -109,7 +109,7 @@ All projects are fully functional and tested on Android/iOS simulators or real d
 - https://github.com/tayyabfareed009/EcommerceApp 
 - https://github.com/tayyabfareed009/Skill-Swap-App
 - https://github.com/tayyabfareed009/Ecommerce-Application
-- [News Watch App Smester Project With Client ](https://github.com/tayyabfareed009/News_Watch)
+- https://github.com/tayyabfareed009/News_Watch
 ##  Author
 - Malik Tayyab Fareed
 - Software Engineer | MAD Student
