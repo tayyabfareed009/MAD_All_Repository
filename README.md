@@ -23,6 +23,8 @@ https://youtube.com/shorts/KY76t1jg0bw?si=2_6or3-DxSb5vH_9
 https://youtu.be/994iL56FeH0
 #### version 2
 https://youtu.be/pIEqi3c3cMw
+### News Watch App Smester project:
+https://youtube.com/shorts/bJARL2skAbI?feature=share
 
 
 
