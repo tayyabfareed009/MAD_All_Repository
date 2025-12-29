@@ -25,6 +25,7 @@ https://youtu.be/994iL56FeH0
 https://youtu.be/pIEqi3c3cMw
 ### News Watch App Smester project:
 https://youtube.com/shorts/bJARL2skAbI?feature=share
+https://youtube.com/shorts/nG6BKS9a34Q?feature=share
 
 
 
